@@ -1,0 +1,21 @@
+.
+├── arvore_do_codigo.txt
+└── meu_projeto
+    ├── data
+    │   ├── models
+    │   ├── processed
+    │   └── raw
+    ├── main.py
+    ├── notebooks
+    ├── README.md
+    ├── requirements.txt
+    └── src
+        ├── config.py
+        ├── data_preprocessing.py
+        ├── face_detection.py
+        ├── face_recognition.py
+        ├── __init__.py
+        ├── tests
+        └── utils.py
+
+8 directories, 10 files
